@@ -1,5 +1,7 @@
 In our project, we utilized data from various publicly available datasets, analyzing a range of socioeconomic and policy factors and their effects on well-being. Before diving into our analysis, we sought to understand the relationship between the happiness index and other social and economic factors across different countries. Our aim was to provide valuable insights for policymakers to enhance the happiness of their constituents.
 
+Key Findings:
+
 Our findings revealed that while a thriving economy with a high GDP does contribute to happiness, its impact is limited. This observation was exemplified by countries like India and China, where the correlation between GDP and happiness is not perfect. Beyond GDP, we identified educational inequality and unemployment as significant drivers of happiness scores. The top 20 happiest countries consistently exhibited lower levels of educational inequality and lower unemployment rates compared to the 20 least happy countries. This underscores the importance of broadening access to education across social groups and creating job opportunities to foster happiness among citizens.
 
 Furthermore, we found that overall human development, encompassing factors such as educational attainment and life expectancy, strongly correlates with happiness. The top 5 happiest countries consistently ranked highest in terms of human development indicators. This suggests that populations with high levels of educational attainment and longer life expectancies tend to experience greater levels of happiness.
